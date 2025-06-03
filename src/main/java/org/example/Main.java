@@ -9,13 +9,13 @@ public class Main {
         System.out.println("Escape Room");
        Scanner entradaTeclado=new Scanner(System.in)
         // Edad de una persona (entero)
-        int edad;
+        byte edad;
 
 // Precio de un producto con decimales (decimal)
         double precioProducto;
 
 // Cantidad de hijos de una familia (entero)
-        int cantidadHijos;
+        byte cantidadHijos;
 
 // Salario de un trabajador (decimal)
         double salarioTrabajador;
@@ -54,7 +54,7 @@ public class Main {
         int idProducto;
 
 // Puntaje obtenido en un examen (entero)
-        int puntajeExamen;
+        byte puntajeExamen;
 
 // Velocidad de un auto (decimal)
         float velocidadAuto;
@@ -84,7 +84,7 @@ public class Main {
         double precioBilleteAvion;
 
 // Puntuación de un videojuego (entero)
-        int puntuacionVideojuego;
+        byte puntuacionVideojuego;
 
 // Persona con licencia de conducción (booleano)
         boolean tieneLicenciaConduccion;
@@ -102,7 +102,7 @@ public class Main {
         String codigoBarrasProducto;
 
 // Porcentaje de batería de un dispositivo (entero o float)
-        int porcentajeBateria;
+        byte porcentajeBateria;
 
 // Tipo de cambio de divisas (decimal)
         double tipoCambioDivisas;
